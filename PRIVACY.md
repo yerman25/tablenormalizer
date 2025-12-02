@@ -1,39 +1,48 @@
-# Política de Privacidad — Normalizar Tabla
+# Privacy Policy — Normalize Table
 
-## 1. Introducción
-Normalizar Tabla es una extensión para Google Sheets que transforma pivot tables en tablas normalizadas para facilitar el análisis. Esta política explica qué datos se usan y cómo los protegemos.
+## 1. Introduction
+Normalize Table is a Google Sheets extension that transforms pivot tables into normalized tables to facilitate analysis. This policy explains what data is used and how we protect it.
 
-## 2. Información que recopilamos
-- Contenido de las hojas de cálculo que el usuario seleccione para procesar (celdas, filas, columnas y metadatos necesarios para la normalización).  
-- Metadatos del documento (nombre e ID) sólo si la extensión los necesita.  
-- Datos de uso anónimos y agregados **solo si** el usuario acepta enviar telemetría.  
-- Información de contacto que tú nos proporciones voluntariamente al pedir soporte.
+## 2. Information We Collect
+- Content of the spreadsheets the user selects for processing (cells, rows, columns, and metadata necessary for normalization).
 
-## 3. Uso de los datos
-- Ejecutar la función principal: leer y transformar tablas dentro de las hojas que autorices.  
-- Mejorar la extensión mediante estadísticas anónimas (si habilitado).  
-- Responder a consultas o soporte técnico que nos envíes.
+- Document metadata (name and ID) only if the extension requires it.
 
-## 4. Almacenamiento y transferencia
-- El procesamiento se realiza sobre los datos en tu cuenta de Google Sheets según los permisos que otorgues.  
-- No almacenamos ni compartimos tus datos fuera de tu cuenta, salvo que habilites explícitamente funciones que requieran envío a servidores externos (en cuyo caso se informará y detallará el proveedor).  
-- No vendemos ni alquilamos tus datos.
+- Anonymous and aggregated usage data **only if** the user agrees to send telemetry.
 
-## 5. Permisos de Google
-La extensión solicita permisos mínimos necesarios (por ejemplo, `https://www.googleapis.com/auth/spreadsheets` y/o `drive.file`) para leer y modificar las hojas que autorices. Revisa los permisos antes de instalar.
+- Contact information that you voluntarily provide when requesting support.
 
-## 6. Seguridad
-Implementamos medidas razonables para proteger la información (transmisión segura, control de acceso). Ten en cuenta que ninguna transmisión en internet es 100% segura; evita incluir datos extremadamente sensibles cuando no sea necesario.
+## 3. Use of Data
+- To perform the main function: reading and transforming tables within the sheets you authorize.
 
-## 7. Derechos y control del usuario
-- Puedes revocar los permisos desde tu cuenta de Google en cualquier momento.  
-- Si nos enviaste datos para soporte y quieres que los eliminemos, contáctanos (ver abajo).
+- To improve the extension through anonymous statistics (if enabled).
 
-## 8. Contacto
-- Correo: `yerlogui@gmail.com`.
-- Indica en el asunto: “Privacidad — Normalizar Tabla”.
+- To respond to inquiries or provide technical support.
 
-## 9. Aceptación
-Al instalar y usar Normalizar Tabla aceptas las prácticas descritas en esta política.
+## 4. Storage and Transfer
+- Processing is performed on the data in your Google Sheets account according to the permissions you grant.
 
----
+- We do not store or share your data outside your account, unless you explicitly enable features that require sending data to external servers (in which case the provider will be informed and detailed).
+
+- We do not sell or rent your data.
+
+## 5. Google Permissions
+The extension requests the minimum necessary permissions (for example, `https://www.googleapis.com/auth/spreadsheets` and/or `drive.file`) to read and modify the sheets you authorize. Review the permissions before installing.
+
+## 6. Security
+We implement reasonable measures to protect information (secure transmission, access control). Please note that no internet transmission is 100% secure; avoid including extremely sensitive data when not necessary.
+
+## 7. User Rights and Control
+- You can revoke permissions from your Google account at any time.
+
+- If you sent us data for support and want us to delete it, please contact us (see below).
+
+## 8. Contact
+- Email: `yerlogui@gmail.com`.
+
+- Please indicate in the subject line: “Privacy — Normalize Table”.
+
+## 9. Acceptance
+By installing and using Normalize Table, you agree to the practices described in this policy.
+
+--
