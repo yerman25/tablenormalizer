@@ -28,3 +28,7 @@ With Normalize Table, each of these elements becomes a clear and accessible stru
 <p align="center">
   <img src="assets/vista4.png">
 </p>
+
+### Other Resources
+- [Privacy Policy](https://papayatool.com/privacy)
+- [Terms of service](https://papayatool.com/terms)
