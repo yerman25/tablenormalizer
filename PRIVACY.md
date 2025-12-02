@@ -38,7 +38,7 @@ We implement reasonable measures to protect information (secure transmission, ac
 - If you sent us data for support and want us to delete it, please contact us (see below).
 
 ## 8. Contact
-- Email: `yerlogui@gmail.com`.
+- Email: `soporte@example.com`.
 
 - Please indicate in the subject line: “Privacy — Normalize Table”.
 
